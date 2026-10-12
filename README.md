@@ -15,7 +15,7 @@
 <a href="https://github.com/ShahadAlmalki-cs">
   <img src="https://img.shields.io/badge/GitHub-526B5D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/shahadalmalkics">
+<a href="https://www.linkedin.com/in/shahad-almalkics">
   <img src="https://img.shields.io/badge/LinkedIn-526B5D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shahadalmalkics@gmail.com">
@@ -163,7 +163,7 @@
 <a href="mailto:shahadalmalkics@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-526B5D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
-<a href="https://linkedin.com/in/shahadalmalkics">
+<a href="https://www.linkedin.com/in/shahad-almalkics">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-526B5D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
@@ -195,7 +195,7 @@ I turn ideas into practical technical solutions, with a focus on code quality an
 <a href="https://github.com/ShahadAlmalki-cs">
   <img src="https://img.shields.io/badge/GitHub-526B5D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/shahadalmalkics">
+<a href="https://www.linkedin.com/in/shahad-almalkics">
   <img src="https://img.shields.io/badge/LinkedIn-526B5D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shahadalmalkics@gmail.com">
@@ -343,7 +343,7 @@ I am looking for a software development opportunity where I can apply my skills,
 <a href="mailto:shahadalmalkics@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-526B5D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
-<a href="https://linkedin.com/in/shahadalmalkics">
+<a href="https://www.linkedin.com/in/shahad-almalkics">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-526B5D?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
